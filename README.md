@@ -1,5 +1,7 @@
 # Oculus_SDL
 
+The code is written by Copyright 2015 John D. Corrado (anarkavre).
+
 This is the simplest possible sample for writing an Oculus Application. This source is taken from:
 
 https://forums.oculus.com/viewtopic.php?f=20&t=8949#p155558
